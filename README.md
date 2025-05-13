@@ -10,3 +10,5 @@ The website is used to collect statistics on the employment destinations of coll
 │       └── teacher.py	# 专科课程选项
 └── main.py # 选课入口
 ```
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/hiranoaya/Course-Selectio-Website)
