@@ -1,8 +1,3 @@
-from enum import Enum
-
-from service.finance import CampusCard
-
-
 class UserType(Enum):
     Student = 'student'
     Teacher = 'teacher'

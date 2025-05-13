@@ -1,6 +1,3 @@
-from service.user.base import BaseUser
-
-
 class Student(BaseUser):
     def __init__(self, id: int):
         super().__init__(id)
