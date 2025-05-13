@@ -1,3 +1,8 @@
+from typing import Optional
+
+from service.user.base import BaseUser, UserType
+
+
 class Canteen:
     def __init__(self, name):
         self.name = name
